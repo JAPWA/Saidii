@@ -3327,7 +3327,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = ''❨ 𝑺𝑯𝑨𝑫𝑶𝑾 ❩',url="t.me/KB_Shadow"}},
+{{text = '❨ 𝑺𝑯𝑨𝑫𝑶𝑾 ❩',url="t.me/KB_Shadow"}},
 {{text ='❨ الــقــنــوات ❩', callback_data="/Shadow"},{text ='❨ الــبــارات ❩', callback_data="/Shadow2"}},  
 {{text ='❨ الــبــوتــات ❩', callback_data="/Shadow3"}},
 }
